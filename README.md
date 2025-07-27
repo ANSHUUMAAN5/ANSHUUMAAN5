@@ -92,7 +92,8 @@ SQL-based billing app for hospitals — calculates total cost based on disease, 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=9EFF7D&center=true&vCenter=true&width=500&lines=Let's+build+things+that+actually+matter." />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
+
 
 
