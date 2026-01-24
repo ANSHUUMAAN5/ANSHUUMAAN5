@@ -6,7 +6,7 @@
 
 ## 🧩 Quick Overview
 
-- 🎓 2nd Year CSE @ Bennett University  
+- 🎓 3rd Year CSE @ Bennett University  
 - 💼 Interned at ONGC — built ML model for inventory optimization  
 - 🛠️ Built a full SAP ABAP internship management system with module pools  
 - 🧠 Interested in ML, backend systems, data, finance  
