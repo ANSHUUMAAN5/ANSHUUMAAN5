@@ -10,8 +10,7 @@
 - 💼 Interned at ONGC — built ML model for inventory optimization  
 - 🛠️ Built a full SAP ABAP internship management system with module pools  
 - 🧠 Interested in ML, backend systems, data, finance  
-- 🔄 Currently: DSA + Python + Web + Machine Learning + SAP  
-
+- 🔄 Currently: DSA + ML/DL
 ---
 
 ## 🛠 Tech I Work With
