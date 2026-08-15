@@ -3,12 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANSHUUMAAN5&style=for-the-badge&color=00F1FF" alt="profile views" />
-  <img src="https://img.shields.io/badge/IEEE_Indexed_Author-99.52%25_Accuracy-blueviolet?style=for-the-badge" />
+  🎓 Pre-final year CSE (AI), Bennett University &nbsp;|&nbsp; 🧠 Computer Vision · Deep Learning · Generative AI
 </p>
 
 <p align="center">
-  🎓 Pre-final year CSE (AI), Bennett University &nbsp;|&nbsp; 📄 IEEE-Indexed Published Author &nbsp;|&nbsp; 🧠 CV · DL · GenAI
+  <a href="https://www.linkedin.com/in/anshuumaan-mathur-35746b261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:anshuumaanmathur5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/e23cseu0680"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"></a>
 </p>
 
 ---
@@ -18,7 +19,7 @@
 ```yaml
 name: Anshuman Mathur
 role: CS (AI) Student | ML/CV Engineer
-current_focus: RAG + Agentic AI systems (RecallAI)
+current_focus: RAG + Agentic AI systems 
 research: IEEE-indexed publication, CICTN 2025 — 99.52% accuracy
 experience: Machine Learning & Software Intern @ ONGC
 interests: [Computer Vision, Deep Learning, Generative AI, DSA]
@@ -134,3 +135,5 @@ Full-stack forecasting app across 801 real inventory items + an enterprise SAP A
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F1FF,100:8A2BE2&height=100&section=footer" width="100%" />
