@@ -12,19 +12,45 @@
   <a href="https://www.codechef.com/users/e23cseu0680"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"></a>
 </p>
 
+<p align="center">
+I'm a Computer Science (AI) student who learns by building — training models, shipping systems, and figuring out how they actually behave once real data hits them. My work spans computer vision, deep learning, and now Generative AI, backed by an IEEE-indexed research publication and hands-on industry experience. Currently going deep on RAG and agentic systems with <b>RecallAI</b>.
+</p>
+
 ---
 
-### 🧩 About Me
+### 🧩 Quick Facts
 
 ```yaml
-name: Anshuman Mathur
-role: CS (AI) Student | ML/CV Engineer
+role: CS (AI) Student | ML / CV Engineer
 current_focus: RAG + Agentic AI systems 
 research: IEEE-indexed publication, CICTN 2025 — 99.52% accuracy
 experience: Machine Learning & Software Intern @ ONGC
-interests: [Computer Vision, Deep Learning, Generative AI, DSA]
-fun_fact: 3-Star CodeChef | competitive programmer at heart
+strengths: [Computer Vision, Deep Learning, Generative AI, Agentic AI DSA]
+currently_learning: [Agentic AI, LangGraph, Vector Search internals]
+fun_fact: 3-Star CodeChef | 100+ problems solved | competitive by nature
 ```
+
+---
+
+### 💼 Experience
+
+**Machine Learning & Software Intern — Oil and Natural Gas Corporation (ONGC)**
+*June 2025 – July 2025 · Delhi, India*
+
+- Engineered an SAP ABAP-based Intern Management System (T-code `ZINTERN_MANAGE`) for ONGC's HR division, with CRUD operations and approval workflows across 5 custom screens
+- Established audit-trail logging across 3 workflow stages and role-based access control, improving data traceability for HR coordinators
+- Developed a full-stack AI/ML forecasting app using Facebook Prophet to predict oilfield inventory consumption across 801 items, generating 6-month demand forecasts
+- Designed dynamic filtering to identify the top 10 highest-consumption materials for real-time forecast visualization
+- **Stack:** SAP ABAP, Python, Facebook Prophet, Pandas, Streamlit, SQL
+
+---
+
+### 🎓 Education
+
+**B.Tech, Computer Science & Engineering (AI)** — Bennett University, Greater Noida
+*2023 – 2027 · CGPA: 8.66/10.0*
+
+**Relevant Coursework:** Data Structures & Algorithms · Machine Learning · Deep Learning · Computer Networks · Operating Systems · DBMS · Object-Oriented Programming
 
 ---
 
@@ -34,13 +60,15 @@ fun_fact: 3-Star CodeChef | competitive programmer at heart
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,github,flask&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-</p>
+**Languages:** Python · C++ · Java · SQL · JavaScript · HTML · CSS
+
+**ML & Deep Learning:** PyTorch · TensorFlow · Scikit-learn · Keras · NumPy · Pandas
+
+**Computer Vision:** OpenCV · MediaPipe · DeepLabV3 · Image Segmentation · Object Detection
+
+**Generative AI:** LLMs · RAG · Prompt Engineering · Transformers · LangChain · Vector Search (HNSW, KD-Tree)
+
+**Backend & Tools:** Flask · REST APIs · Git · SAP ABAP · Ollama · Groq API
 
 ---
 
@@ -53,7 +81,7 @@ fun_fact: 3-Star CodeChef | competitive programmer at heart
 **🔎 RecallAI — Vector Search Engine for Agentic RAG**
 <br><i>C++ · Python · LangChain · Ollama · Groq</i>
 
-Custom C++ vector search engine (HNSW, KD-Tree, brute-force) powering a full-stack RAG platform, with agentic local/cloud LLM routing.
+Full-stack RAG platform for ingesting and querying personal documents, powered by a custom C++ vector search engine implementing HNSW, KD-Tree, and brute-force algorithms for benchmarked similarity search. Supports local (Ollama) and cloud (Groq) LLM inference with agentic routing based on query context.
 
 [![Repo](https://img.shields.io/badge/View-Repo-00F1FF?style=flat-square)](https://github.com/ANSHUUMAAN5/recallai)
 
@@ -63,7 +91,7 @@ Custom C++ vector search engine (HNSW, KD-Tree, brute-force) powering a full-sta
 **🎥 Semantic Segmentation for Driving Videos**
 <br><i>PyTorch · DeepLabV3 · OpenCV</i>
 
-DeepLabV3 pipeline trained on 701 images across 32 road-scene classes — 63% mean IoU, real-time video processing.
+Engineered a DeepLabV3 segmentation pipeline trained on 701 annotated images across 32 road-scene classes, achieving 63% mean IoU. Built real-time video-stream processing across all classes.
 
 [![Repo](https://img.shields.io/badge/View-Repo-00F1FF?style=flat-square)](https://github.com/ANSHUUMAAN5/semantic-segmentation-video)
 
@@ -75,17 +103,17 @@ DeepLabV3 pipeline trained on 701 images across 32 road-scene classes — 63% me
 **🤟 Real-Time Sign Language Detection**
 <br><i>TensorFlow · MobileNetV2 · MediaPipe</i>
 
-Real-time ASL classifier (26 classes) from webcam input, evaluated on precision/recall.
+Real-time webcam-based system classifying all 26 letters of the ASL alphabet, translating gestures into text via a trained 26-class pipeline, evaluated on precision/recall.
 
 [![Repo](https://img.shields.io/badge/View-Repo-00F1FF?style=flat-square)](https://github.com/ANSHUUMAAN5/Sign-Language-Detection-Project_ASL)
 
 </td>
 <td width="50%" valign="top">
 
-**📊 ONGC Inventory Forecasting**
-<br><i>Facebook Prophet · Pandas · SAP ABAP</i>
+**💬 Mental Health Tracker**
+<br><i>Flask · SQLite · JavaScript</i>
 
-Full-stack forecasting app across 801 real inventory items + an enterprise SAP ABAP workflow system with audit-trail logging.
+Full-stack web app enabling mood logging across 5 categories and journaling, backed by interactive trend dashboards — built end-to-end, from schema to frontend.
 
 </td>
 </tr>
@@ -93,10 +121,33 @@ Full-stack forecasting app across 801 real inventory items + an enterprise SAP A
 
 ---
 
-### 📄 Research
+### 📄 Research & Publications
 
 > **"A MultiResUNet-Based Deep Learning Architecture for Accurate Lung Segmentation in Chest X-Rays"**
-> Co-authored & presented at CICTN 2025 — **99.52% accuracy**, 99.10% Dice Coefficient on 3,616 chest X-ray images, outperforming U-Net, Res-UNet, FPN, and MiniSeg.
+> Co-authored and presented at CICTN 2025 — **99.52% accuracy** and 99.10% Dice Coefficient on a 3,616-image COVID-19 chest X-ray dataset, outperforming U-Net, Res-UNet, FPN, and MiniSeg baselines.
+
+---
+
+### 📜 Certifications
+
+- Neural Networks and Deep Learning — DeepLearning.AI (Coursera)
+- Machine Learning: Regression — University of Washington (Coursera)
+
+---
+
+### 🏆 Achievements
+
+- 🥉 3-Star CodeChef rated (1627), 100+ competitive programming problems solved
+- 📄 IEEE-indexed research publication, CICTN 2025
+
+---
+
+### 🧭 Currently
+
+- 🔭 Building **RecallAI** — a RAG + agentic AI platform with a from-scratch C++ vector search engine
+- 🌱 Deepening my understanding of LangGraph, agentic workflows, and vector search internals
+- 💪 Sharpening DSA fundamentals alongside applied AI/ML work
+- 🎯 Looking for a Machine Learning / AI internship where I can contribute to real, deployed systems
 
 ---
 
@@ -114,13 +165,6 @@ Full-stack forecasting app across 801 real inventory items + an enterprise SAP A
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ANSHUUMAAN5&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-### 🏆 Achievements
-
-- 🥉 3-Star CodeChef rated (1627), 100+ competitive programming problems solved
-- 📄 IEEE-indexed publication, CICTN 2025
 
 ---
 
